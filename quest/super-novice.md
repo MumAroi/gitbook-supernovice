@@ -4,21 +4,18 @@
 
 #### <mark style="color:purple;">ตัวละคร</mark>
 
-Base Level: 45
-
-Job Level: 10
-
-Job Class: Novice
+* Base Level: 45
+* Job Level: 10
+* Job Class: Novice
 
 #### <mark style="color:purple;">ไอเทมที่ต้องเตรียม</mark>
 
-![](../.gitbook/assets/Resin.png) 30 [Resin](https://www.divine-pride.net/database/item/907/resin)
-
-![](<../.gitbook/assets/Sticky Mucus.png>) 30 [Sticky Mucus](https://www.divine-pride.net/database/item/938/sticky-mucus)
+* ![](../.gitbook/assets/Resin.png) 30 [Resin](https://www.divine-pride.net/database/item/907/resin)
+* ![](<../.gitbook/assets/Sticky Mucus.png>) 30 [Sticky Mucus](https://www.divine-pride.net/database/item/938/sticky-mucus)
 
 #### <mark style="color:green;">รางวัลจากเควส</mark>
 
-![](../.gitbook/assets/Pantie.png) [Pantie](http://db.irowiki.org/db/item-info/2339/)
+* ![](../.gitbook/assets/Pantie.png) [Pantie](http://db.irowiki.org/db/item-info/2339/)
 
 ### <mark style="color:yellow;">ขั้นตอนการเดินเควส</mark>
 
