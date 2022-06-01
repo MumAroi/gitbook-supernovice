@@ -14,3 +14,5 @@
 * คุยกับ Kafra Receptionist เลือกข้อ 1 "**ทำไมจะไม่หละ**"
 * คุยจนขึ้นตัวเลือกถัดไป เลือกข้อ 1 "**ส่งรถนั้นมา !**"
 * เท่านี้ก็จะได้รถเข็นน่ารักๆของน้อง Supernovice มาใช้แล้ว
+
+> อ้างอิง: [www.ro-prt.in.th](https://ro-prt.in.th/forum/index.php?app=forums\&module=forums\&controller=topic\&id=27453)
