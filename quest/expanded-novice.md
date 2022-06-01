@@ -14,6 +14,6 @@
 
 #### <mark style="color:green;">รางวัลจากเควส</mark>
 
-* ![](../.gitbook/assets/novice\_breastplate.png) [Novice Breastplate \[1\]](https://www.divine-pride.net/database/item/2340/novice-breastplate-1) 1 ea <mark style="color:red;">\*กรณีบริจาก100,000z</mark>
-* ![](../.gitbook/assets/undershirt.png) [Undershirt](https://www.divine-pride.net/database/item/2522/undershirt) 1 ea <mark style="color:red;">\*กรณีบริจาก300,000z</mark>
-*
+* ![](../.gitbook/assets/novice\_breastplate.png) [Novice Breastplate \[1\]](https://www.divine-pride.net/database/item/2340/novice-breastplate-1) 1 ea <mark style="color:red;">\*กรณีบริจาก 100,000z</mark>
+* ![](../.gitbook/assets/undershirt.png) [Undershirt](https://www.divine-pride.net/database/item/2522/undershirt) 1 ea <mark style="color:red;">\*กรณีบริจาก 300,000z</mark>
+* ![](../.gitbook/assets/super\_novice\_hat.png) [Super Novice Hat \[1\]](https://www.divine-pride.net/database/item/5119/super-novice-hat-1) 1 ea
