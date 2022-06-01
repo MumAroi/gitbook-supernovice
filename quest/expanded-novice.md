@@ -25,3 +25,7 @@
   * ![](../.gitbook/assets/novice\_shield.png) [Novice Shield \[1\]](https://www.divine-pride.net/database/item/2113/novice-shield-1) 1 ea
   * ![](../.gitbook/assets/novice\_shoes.png) [Novice Shoes \[1\]](https://www.divine-pride.net/database/item/2416/novice-shoes-1) 1 ea
   * ![](../.gitbook/assets/novice\_armlet.png) [Novice Armlet \[1\]](https://www.divine-pride.net/database/item/2628/novice-armlet-1) 1 ea
+
+### <mark style="color:yellow;">ขั้นตอนการเดินเควส</mark>
+
+* เดินทางไปเมือง Al De Baran เข้าไปในบ้านที่พิกัด  `/navi aldebaran 116/63` แล้วเข้าห้องทางด้านซ้าย
