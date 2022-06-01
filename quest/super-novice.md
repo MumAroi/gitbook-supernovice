@@ -29,3 +29,5 @@
   1. ![](../.gitbook/assets/Resin.png) 30 [Resin](https://www.divine-pride.net/database/item/907/resin)
   2. ![](<../.gitbook/assets/Sticky Mucus.png>) 30 [Sticky Mucu](https://www.divine-pride.net/database/item/938/sticky-mucus)
 * เมื่อเตรียมมาแล้วให้คุยอีกทีครั้ง แล้วเลือก ข้อ 1 "**หืม?"** คุณก็จะสามารถเปลี่ยน Super Novice ได้ทันที
+
+> อ้างอิง: [www.modify.in.th](https://www.modify.in.th/24576)
