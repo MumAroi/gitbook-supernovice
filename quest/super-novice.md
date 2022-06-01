@@ -1,6 +1,6 @@
 # 📔 เปลี่ยน Super Novice
 
-### <mark style="color:red;">สิ่งที่ต้องเตรียม</mark>
+### <mark style="color:red;">เงื่อนไข</mark>
 
 #### <mark style="color:purple;">ตัวละคร</mark>
 
