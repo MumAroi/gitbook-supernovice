@@ -15,7 +15,7 @@
 
 #### <mark style="color:green;">รางวัลจากเควส</mark>
 
-* ![](../.gitbook/assets/Pantie.png) [Pantie](https://www.divine-pride.net/database/item/2339/pantie)
+* ![](../.gitbook/assets/Pantie.png) [Pantie\[1\]](https://www.divine-pride.net/database/item/2371/pantie-1)
 
 ### <mark style="color:yellow;">ขั้นตอนการเดินเควส</mark>
 
