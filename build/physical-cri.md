@@ -16,6 +16,20 @@
 #### <mark style="color:yellow;">Top Headgear</mark>
 
 * ![](../.gitbook/assets/Angeling\_Woolly\_Hat.png) [Angeling Woolly Hat \[1\]](https://www.divine-pride.net/database/item/18838/angeling-woolly-hat-1)
+* ![](../.gitbook/assets/W\_King\_Tiger\_Doll\_Hat.png) [W King Tiger Doll Hat](https://www.divine-pride.net/database/item/18856/w-king-tiger-doll-hat)
+* ![](../.gitbook/assets/Chick\_Hat.png) [Chick Hat](https://www.divine-pride.net/database/item/5283/chick-hat)
+* ![](../.gitbook/assets/Snake\_Head.png) [Snake Head Hat \[1\]](https://www.divine-pride.net/database/item/5388/snake-head-hat-1)
+* ![](../.gitbook/assets/Wunderkammer.png) [Wunderkammer \[1\]](https://www.divine-pride.net/database/item/18575/wunderkammer-1)
+* ![](../.gitbook/assets/Carmen\_Miranda's\_Hat.png) [Carmen Miranda's Hat \[1\]](https://www.divine-pride.net/database/item/5307/carmen-mirandas-hat-1)
+
+#### <mark style="color:yellow;">Middle Headgear</mark>
+
+* ![](../.gitbook/assets/Bell\_Pigeon.png) [Bell Pigeon \[1\]](https://www.divine-pride.net/database/item/18912/bell-pigeon-1)
+
+#### <mark style="color:yellow;">Lower Headgear</mark>
+
+* ![](../.gitbook/assets/Pink\_Angeling\_Bubble.png) [Pink Angeling Bubble](https://www.divine-pride.net/database/item/18858/pink-angeling-bubble)
+* ![](../.gitbook/assets/Panda\_Balloon.png) [Panda Balloon](https://www.divine-pride.net/database/item/18962/panda-balloon)
 {% endtab %}
 
 {% tab title="Lv 45 - 99" %}
