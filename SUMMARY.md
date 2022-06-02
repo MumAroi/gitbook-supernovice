@@ -10,4 +10,4 @@
 
 ## 🛠 Build
 
-* [🔪 Physical ( กายภาพ )](build/physical.md)
+* [🔪 Physical-Cri ( กายภาพ - คริ )](build/physical-cri.md)

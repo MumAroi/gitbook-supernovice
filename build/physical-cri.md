@@ -1,10 +1,9 @@
-# 🔪 Physical ( กายภาพ )
+# 🔪 Physical-Cri ( กายภาพ - คริ )
 
 {% tabs %}
 {% tab title="Lv 1 - 45" %}
 #### <mark style="color:yellow;">**Weapon**</mark>
 
-* ![](../.gitbook/assets/FaceWorm\_Leg.png) [Face Worm Leg \[1\]](https://www.divine-pride.net/database/item/13089/face-worm-leg-1)
 * ![](../.gitbook/assets/Cat\_Club.png) [Cat Club \[3\]](https://www.divine-pride.net/database/item/16015/cat-club-3)
 
 #### <mark style="color:yellow;">Shield</mark>
