@@ -6,3 +6,4 @@ coverY: 298.5191484750008
 
 # 👾 Super Novice
 
+> Discord Super Novice TH: [https://discord.gg/tnsQDJHgws](https://discord.gg/tnsQDJHgws)

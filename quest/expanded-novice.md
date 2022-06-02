@@ -62,4 +62,4 @@
 * เลือกบริจาคเงินให้เขา <mark style="color:red;">\*เลือกราคาไหนก็ได้ตามงบที่มี</mark>
 * กลับไปหา Nodor อีกครั้ง เราจะได้รับการเปลี่ยนอาชีพ
 
-> อ้างอิงจาก: [www.ro-prt.in.th](https://ro-prt.in.th/forum/index.php?app=forums\&module=forums\&controller=topic\&id=27567)
+> อ้างอิง: [www.ro-prt.in.th](https://ro-prt.in.th/forum/index.php?app=forums\&module=forums\&controller=topic\&id=27567)
