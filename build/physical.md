@@ -19,7 +19,7 @@
 * ![](../.gitbook/assets/Angeling\_Woolly\_Hat.png) [Angeling Woolly Hat \[1\]](https://www.divine-pride.net/database/item/18838/angeling-woolly-hat-1)
 {% endtab %}
 
-{% tab title="Untitled" %}
+{% tab title="Lv 45 - 99" %}
 
 {% endtab %}
 {% endtabs %}
