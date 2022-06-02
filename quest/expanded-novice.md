@@ -24,7 +24,7 @@
   * ![](../.gitbook/assets/novice\_manteau.png) [Novice Manteau \[1\]](https://www.divine-pride.net/database/item/2512/novice-manteau-1) 1ea
   * ![](../.gitbook/assets/novice\_shield.png) [Novice Shield \[1\]](https://www.divine-pride.net/database/item/2113/novice-shield-1) 1 ea
   * ![](../.gitbook/assets/novice\_shoes.png) [Novice Shoes \[1\]](https://www.divine-pride.net/database/item/2416/novice-shoes-1) 1 ea
-  * ![](../.gitbook/assets/novice\_armlet.png) [Novice Armlet \[1\]](https://www.divine-pride.net/database/item/2628/novice-armlet-1) 1 ea
+  * <img src="../.gitbook/assets/novice_armlet.png" alt="" data-size="original"> [Novice Armlet \[1\]](https://www.divine-pride.net/database/item/2628/novice-armlet-1) 1 ea
 
 ### <mark style="color:yellow;">ขั้นตอนการเดินเควส</mark>
 
@@ -42,10 +42,10 @@
 * ตัวเลือกถัดไปเลือก "**ข้าจะทำมัน.. . แน่นอน"**
 * เขาจะให้เราทำการล่ามอนสเตอร์จำนวน 1,000 ตัว
 * โดยสุ่มระหว่าง&#x20;
-  * ![](../.gitbook/assets/Poring.png)  [Poring](https://www.divine-pride.net/database/monster/1002)&#x20;
-  * ![](../.gitbook/assets/Fabre.png) [Fabre](https://www.divine-pride.net/database/monster/1007/fabre)
-  * ![](../.gitbook/assets/Lunatic.png) [Lunatic](https://www.divine-pride.net/database/monster/1063/lunatic)
-  * ![](../.gitbook/assets/Picky.png) [Picky](https://www.divine-pride.net/database/monster/1049/picky) <mark style="color:red;">\*ต้องเป็นตัวที่ไม่ใส่หมวกไข่</mark>
+  * <img src="../.gitbook/assets/Poring.png" alt="" data-size="line">  [Poring](https://www.divine-pride.net/database/monster/1002)&#x20;
+  * <img src="../.gitbook/assets/Fabre.png" alt="" data-size="line"> [Fabre](https://www.divine-pride.net/database/monster/1007/fabre)
+  * <img src="../.gitbook/assets/Lunatic.png" alt="" data-size="line"> [Lunatic](https://www.divine-pride.net/database/monster/1063/lunatic)
+  * <img src="../.gitbook/assets/Picky.png" alt="" data-size="line"> [Picky](https://www.divine-pride.net/database/monster/1049/picky) <mark style="color:red;">\*ต้องเป็นตัวที่ไม่ใส่หมวกไข่</mark>
 * เมื่อล่ามอนสเตอร์ครบแล้วให้กลับมาหาเขา&#x20;
 * เลือกตอบเป็นชื่อ Monster ที่เราได้รับมอบหมาย
 * คุยกับเขาซ้ำๆ  จนกว่าเขาจะบอกว่าได้รับจดหมาย
