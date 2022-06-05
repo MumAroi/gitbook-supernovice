@@ -76,6 +76,9 @@
 * ![](../.gitbook/assets/Broken\_Chip\_1.png) [Broken Chip 01 \[1\]](https://www.divine-pride.net/database/item/28326/broken-chip-01-1)
 * ![](../.gitbook/assets/Broken\_Chip\_2.png) [Broken Chip 02 \[1\]](https://www.divine-pride.net/database/item/28327/broken-chip-02-1)
 * ![](../.gitbook/assets/Luk\_Glove.png) [Luk Glove \[1\]](https://www.divine-pride.net/database/item/2928/luk-glove-1)
+* ![](../.gitbook/assets/Hurt\_Mind.png) [Hurt Mind \[1\]](https://www.divine-pride.net/database/item/2977/hurt-mind-1)
+* ![](../.gitbook/assets/KindHeart.png) [Kind Heart \[1\]](https://www.divine-pride.net/database/item/2978/kind-heart-1)
+* ![](../.gitbook/assets/Evilspirit\_Gloves.png) [Evilspirit Gloves \[1\]](https://www.divine-pride.net/database/item/2980/evilspirit-gloves-1)
 
 #### <mark style="color:yellow;">Shadow</mark>
 
