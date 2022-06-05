@@ -135,20 +135,28 @@
 {% endtab %}
 
 {% tab title="Skill" %}
-![](../.gitbook/assets/TF\_DOUBLE.png) [Double Attack](https://www.divine-pride.net/database/skill/48) \[10:10]
+![](<../.gitbook/assets/TF\_DOUBLE (1).png>) [Double Attack](https://www.divine-pride.net/database/skill/48) \[10:10]
 
 ![](../.gitbook/assets/AL\_INCAGI.png) [Increase AGI](https://www.divine-pride.net/database/skill/29) \[10:10]
 
 ![](../.gitbook/assets/AL\_BLESSING.png) [Blessing](https://www.divine-pride.net/database/skill/34) \[10:10]
 
-![](../.gitbook/assets/MC\_PUSHCART.png) [Pushcart](https://www.divine-pride.net/database/skill/39) \[10:10 or <mark style="color:yellow;">\*optional</mark>]
+![](<../.gitbook/assets/MC\_PUSHCART (1).png>) [Pushcart](https://www.divine-pride.net/database/skill/39) \[10:10 or <mark style="color:yellow;">\*optional</mark>]
 
-![](../.gitbook/assets/MC\_INCCARRY.png) [Enlarge Weight Limit](https://www.divine-pride.net/database/skill/36) \[5:10 or <mark style="color:yellow;">\*optional</mark>]
+![](<../.gitbook/assets/MC\_INCCARRY (1).png>) [Enlarge Weight Limit](https://www.divine-pride.net/database/skill/36) \[5:10 or <mark style="color:yellow;">\*optional</mark>]
 
 ![](../.gitbook/assets/AL\_DP.png) [Divine Protection](https://www.divine-pride.net/database/skill/22) \[5:10]
 
-![](../.gitbook/assets/TF\_MISS.png) [Improve Dodge](https://www.divine-pride.net/database/skill/49) \[10:10]
+![](<../.gitbook/assets/TF\_MISS (1).png>) [Improve Dodge](https://www.divine-pride.net/database/skill/49) \[10:10]
 
-![](../.gitbook/assets/SM\_SWORD.png) [Sword Mastery](https://www.divine-pride.net/database/skill/2) 10:10 or <mark style="color:yellow;">\*optional</mark>]
+![](../.gitbook/assets/SM\_SWORD.png) [Sword Mastery](https://www.divine-pride.net/database/skill/2) \[10:10 or <mark style="color:yellow;">\*optional</mark>]
+
+![](../.gitbook/assets/MG\_STONECURSE.png) [Stone Curse](https://www.divine-pride.net/database/skill/16) \[1:10]
+
+![](../.gitbook/assets/AC\_CONCENTRATION.png) [Improve Concentration](https://www.divine-pride.net/database/skill/45) \[10:10 or <mark style="color:yellow;">\*optional</mark>]
+
+![](<../.gitbook/assets/AC\_VULTURE (1).png>) [Vulture's Eye](https://www.divine-pride.net/database/skill/44) [Stone Curse](https://www.divine-pride.net/database/skill/16) \[1:10 or <mark style="color:yellow;">\*optional</mark>]
+
+![](../.gitbook/assets/AC\_OWL.png) [Owl's Eye](https://www.divine-pride.net/database/skill/43) \[3:10 or <mark style="color:yellow;">\*optional</mark>]
 {% endtab %}
 {% endtabs %}
