@@ -1,7 +1,9 @@
 # 🔪 Physical ( กายภาพ )
 
+
+
 {% tabs %}
-{% tab title="Weapon & Shield" %}
+{% tab title="Equipment" %}
 #### <mark style="color:yellow;">**Weapon**</mark>
 
 * ![](../.gitbook/assets/Cat\_Club.png) [Cat Club \[3\]](https://www.divine-pride.net/database/item/16015/cat-club-3)
@@ -84,6 +86,30 @@
 * ![](../.gitbook/assets/S\_Blitz\_Shoes.png) [Blitz Shadow Shoes](https://www.divine-pride.net/database/item/24231/blitz-shadow-shoes)
 * ![](../.gitbook/assets/S\_SuperNovice\_Weapon.png) [Blitz Shadow Weapon](https://www.divine-pride.net/database/item/24343/blitz-shadow-weapon)
 * ![](../.gitbook/assets/S\_Sigrun\_Armor.png) [Sigrun Shadow Armor](https://www.divine-pride.net/database/item/24326/sigrun-shadow-armor)
+{% endtab %}
+
+{% tab title="Card" %}
+
+
+#### <mark style="color:yellow;">**Weapon**</mark>
+
+* ![](../.gitbook/assets/card.png) [Arch Angeling Card](https://www.divine-pride.net/database/item/4241/arch-angeling-card)
+
+#### <mark style="color:yellow;">Shield</mark>
+
+#### <mark style="color:yellow;">Top Headgear</mark>
+
+#### <mark style="color:yellow;">Middle Headgear</mark>
+
+#### <mark style="color:yellow;">Lower Headgear</mark>
+
+#### <mark style="color:yellow;">Armor</mark>
+
+#### <mark style="color:yellow;">Garment</mark>
+
+#### <mark style="color:yellow;">Shoes</mark>
+
+#### <mark style="color:yellow;">Accessory</mark>
 {% endtab %}
 {% endtabs %}
 
