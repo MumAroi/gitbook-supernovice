@@ -89,32 +89,50 @@
 {% endtab %}
 
 {% tab title="Card" %}
-
-
 #### <mark style="color:yellow;">**Weapon**</mark>
 
-* ![](../.gitbook/assets/card.png) [Arch Angeling Card](https://www.divine-pride.net/database/item/4241/arch-angeling-card)
+* ![](../.gitbook/assets/card.png) [Corruption Root Card](https://www.divine-pride.net/database/item/4603/corruption-root-card)
+* ![](../.gitbook/assets/card.png) <mark style="color:yellow;"></mark> [Warrior Lola Card](https://www.divine-pride.net/database/item/4579/warrior-lola-card)<mark style="color:yellow;"></mark>
+* <mark style="color:yellow;"></mark>![](../.gitbook/assets/card.png) <mark style="color:yellow;"></mark> [Wolf Card](https://www.divine-pride.net/database/item/4029/wolf-card)
+* ![](../.gitbook/assets/card.png) [Sidewinder Card](https://www.divine-pride.net/database/item/4117/sidewinder-card)
+* ![](../.gitbook/assets/card.png) [Zipper Bear Card](https://www.divine-pride.net/database/item/4281/zipper-bear-card)
+* ![](../.gitbook/assets/card.png) [Immortal Bloody Knight Card](https://www.divine-pride.net/database/item/31024/immortal-bloody-knight-card)
+* ![](../.gitbook/assets/card.png) [White Knight Card](https://www.divine-pride.net/database/item/4608/white-knight-card)
+* ![](../.gitbook/assets/card.png) [True Seyren Windsor Card](https://www.divine-pride.net/database/item/4689/true-seyren-windsor-card)
+* ![](../.gitbook/assets/card.png) [Tendrillion Card](https://www.divine-pride.net/database/item/4463/tendrillion-card)
 
 #### <mark style="color:yellow;">Shield</mark>
 
-#### <mark style="color:yellow;">Top Headgear</mark>
+* ![](../.gitbook/assets/card.png) [Ogretooth Card](https://www.divine-pride.net/database/item/4254/ogretooth-card)
+* ![](../.gitbook/assets/card.png) [Khalitzburg Knightage Card](https://www.divine-pride.net/database/item/4609/khalitzburg-knight-card)
+* ![](../.gitbook/assets/card.png) [Hodremlin Card](https://www.divine-pride.net/database/item/4413/hodremlin-card)
 
-#### <mark style="color:yellow;">Middle Headgear</mark>
+#### <mark style="color:yellow;">Headgear</mark>
 
-#### <mark style="color:yellow;">Lower Headgear</mark>
+* ​![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FotbFEXUWBrslujW21DlK%2Fuploads%2FkAkCbsf0QG8qi0ke1Lv3%2Fcard.png?alt=media\&token=1d9c1d6b-036f-4f6e-868e-e572b07a9de5)[Arch Angeling Card](https://www.divine-pride.net/database/item/4241/arch-angeling-card)​
+* ​​![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FotbFEXUWBrslujW21DlK%2Fuploads%2FkAkCbsf0QG8qi0ke1Lv3%2Fcard.png?alt=media\&token=1d9c1d6b-036f-4f6e-868e-e572b07a9de5)[Incubus Card](https://www.divine-pride.net/database/item/4269/incubus-card)
 
 #### <mark style="color:yellow;">Armor</mark>
 
+* ![](../.gitbook/assets/card.png) [Succubus Card](https://www.divine-pride.net/database/item/4218/succubus-card)
+
 #### <mark style="color:yellow;">Garment</mark>
+
+* ![](../.gitbook/assets/card.png) [Nine Tail Card](https://www.divine-pride.net/database/item/4159/nine-tail-card)
+* ![](../.gitbook/assets/card.png) [Nightmare Ancient Mummy Card](https://www.divine-pride.net/database/item/4657/nightmare-ancient-mummy-card)
+* ![](../.gitbook/assets/card.png) [Deviling Card](https://www.divine-pride.net/database/item/4174/deviling-card)
+* ![](../.gitbook/assets/card.png) [Raydric Card](https://www.divine-pride.net/database/item/4133/raydric-card)
 
 #### <mark style="color:yellow;">Shoes</mark>
 
+* ![](../.gitbook/assets/card.png) [Firelock Soldier Card](https://www.divine-pride.net/database/item/4160/firelock-soldier-card)
+* ![](../.gitbook/assets/card.png) [Matyr Card](https://www.divine-pride.net/database/item/4097/matyr-card)
+* ![](../.gitbook/assets/card.png) [Eggyra Card](https://www.divine-pride.net/database/item/4070/eggyra-card)
+* ![](../.gitbook/assets/card.png) [Arena Arhi Card](https://www.divine-pride.net/database/item/300177/arena-arhi-card)
+
 #### <mark style="color:yellow;">Accessory</mark>
+
+* ![](../.gitbook/assets/card.png) [Kobold Card](https://www.divine-pride.net/database/item/4091/kobold-card)
+* ![](../.gitbook/assets/card.png) [Material Chimera Card](https://www.divine-pride.net/database/item/27148/material-chimera-card)
 {% endtab %}
 {% endtabs %}
-
-
-
-
-
-> <mark style="color:red;">**"เดี่ยวมาเขียนต่อ"**</mark>
