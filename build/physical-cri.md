@@ -187,7 +187,7 @@
 {% tab title="Status" %}
 &#x20;<mark style="color:red;">\*\*\* ทุก status ไม่แนะนำอัพ 120 เปลือง point แต่ถ้าจะอัพก็ไม่ผิด</mark>
 
-<mark style="color:red;">\*\*\* ทุก status สำคัญต่อน้อน supno มากเพราะฉนั้นเลืยกอัพกันดีๆนะ</mark>
+<mark style="color:red;">\*\*\* ทุก status สำคัญต่อน้อน supno มากเพราะฉนั้นเลือกอัพกันดีๆนะ</mark>
 
 STR: 90+
 
