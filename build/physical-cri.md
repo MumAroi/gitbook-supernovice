@@ -1,5 +1,7 @@
 # 🔪 Physical ( กายภาพ )
 
+
+
 {% tabs %}
 {% tab title="Equipment" %}
 #### <mark style="color:yellow;">**Weapon**</mark>
@@ -180,5 +182,23 @@
 ![](../.gitbook/assets/WZ\_QUAGMIRE.png) [Quagmire](https://www.divine-pride.net/database/skill/92) \[5:5]
 
 ![](../.gitbook/assets/PR\_GLORIA.png) [Gloria](https://www.divine-pride.net/tools/skilltree/4307) \[5:5 or <mark style="color:yellow;">\*optional</mark>]&#x20;
+{% endtab %}
+
+{% tab title="Status" %}
+&#x20;<mark style="color:red;">\*\*\* ทุก status ไม่แนะนำอัพ 120 เปลือง point แต่ถ้าจะอัพก็ไม่ผิด</mark>
+
+<mark style="color:red;">\*\*\* ทุก status สำคัญต่อน้อน supno มากเพราะฉนั้นเลืยกอัพกันดีๆนะ</mark>
+
+STR: 90+
+
+AGI: 90+
+
+VIT: 1 - 50  <mark style="color:red;">\* point เหลือค่อยอัพเน้นหลบเอา</mark>
+
+INT: 40+
+
+DEX: 70+
+
+LUK: 50+&#x20;
 {% endtab %}
 {% endtabs %}
