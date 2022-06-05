@@ -34,6 +34,8 @@
 * ![](../.gitbook/assets/Taurus\_Crown.png) [Taurus Crown](https://www.divine-pride.net/database/item/5550/taurus-crown)
 * ![](../.gitbook/assets/Wanderer's\_Sakkat.png) [Wanderer Sakkat \[1\]](https://www.divine-pride.net/database/search?q=Wanderer%27s+Sakkat)
 * ![](../.gitbook/assets/Riot\_Chip.png) [Runaway Chip \[1\]](https://www.divine-pride.net/database/item/18997/runaway-chip-1)
+* ![](../.gitbook/assets/General\_Helmet.png) [General Helm \[1\]](https://www.divine-pride.net/database/item/19263/general-helm-1)
+* ![](../.gitbook/assets/Spider\_Temp\_TW.png) [Spider Seduction \[1\]](https://www.divine-pride.net/database/item/19328/spider-seduction-1)
 
 #### <mark style="color:yellow;">Middle Headgear</mark>
 
@@ -115,6 +117,7 @@
 #### <mark style="color:yellow;">Armor</mark>
 
 * ![](../.gitbook/assets/card.png) [Succubus Card](https://www.divine-pride.net/database/item/4218/succubus-card)
+* ![](../.gitbook/assets/card.png) [Furious Ninetail Card](https://www.divine-pride.net/database/item/27082/angry-nine-tail-card)
 
 #### <mark style="color:yellow;">Garment</mark>
 
@@ -122,6 +125,7 @@
 * ![](../.gitbook/assets/card.png) [Nightmare Ancient Mummy Card](https://www.divine-pride.net/database/item/4657/nightmare-ancient-mummy-card)
 * ![](../.gitbook/assets/card.png) [Deviling Card](https://www.divine-pride.net/database/item/4174/deviling-card)
 * ![](../.gitbook/assets/card.png) [Raydric Card](https://www.divine-pride.net/database/item/4133/raydric-card)
+* ![](../.gitbook/assets/card.png) [Petal Card](https://www.divine-pride.net/database/item/4594/)
 
 #### <mark style="color:yellow;">Shoes</mark>
 
@@ -129,11 +133,13 @@
 * ![](../.gitbook/assets/card.png) [Matyr Card](https://www.divine-pride.net/database/item/4097/matyr-card)
 * ![](../.gitbook/assets/card.png) [Eggyra Card](https://www.divine-pride.net/database/item/4070/eggyra-card)
 * ![](../.gitbook/assets/card.png) [Arena Arhi Card](https://www.divine-pride.net/database/item/300177/arena-arhi-card)
+* ![](../.gitbook/assets/card.png) [Stefan.J.E.Wolf Card](https://www.divine-pride.net/database/item/31026/stefan-j-e-wolf-card)
 
 #### <mark style="color:yellow;">Accessory</mark>
 
 * ![](../.gitbook/assets/card.png) [Kobold Card](https://www.divine-pride.net/database/item/4091/kobold-card)
 * ![](../.gitbook/assets/card.png) [Material Chimera Card](https://www.divine-pride.net/database/item/27148/material-chimera-card)
+* ![](../.gitbook/assets/card.png) [Owl Baron Card](https://www.divine-pride.net/database/item/4238/owl-baron-card)
 {% endtab %}
 
 {% tab title="Skill" %}
@@ -185,7 +191,7 @@
 {% endtab %}
 
 {% tab title="Status" %}
-&#x20;<mark style="color:red;">\*\*\* ทุก status ไม่แนะนำอัพ 120 เปลือง point แต่ถ้าจะอัพก็ไม่ผิด</mark>
+<mark style="color:red;">\*\*\* ทุก status ไม่แนะนำอัพ 120 เปลือง point แต่ถ้าจะอัพก็ไม่ผิด</mark>
 
 <mark style="color:red;">\*\*\* ทุก status สำคัญต่อน้อน supno มากเพราะฉนั้นเลือกอัพกันดีๆนะ</mark>
 
