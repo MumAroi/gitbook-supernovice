@@ -1,7 +1,5 @@
 # 🔪 Physical ( กายภาพ )
 
-
-
 {% tabs %}
 {% tab title="Equipment" %}
 #### <mark style="color:yellow;">**Weapon**</mark>
@@ -134,5 +132,23 @@
 
 * ![](../.gitbook/assets/card.png) [Kobold Card](https://www.divine-pride.net/database/item/4091/kobold-card)
 * ![](../.gitbook/assets/card.png) [Material Chimera Card](https://www.divine-pride.net/database/item/27148/material-chimera-card)
+{% endtab %}
+
+{% tab title="Skill" %}
+![](../.gitbook/assets/TF\_DOUBLE.png) [Double Attack](https://www.divine-pride.net/database/skill/48) \[10:10]
+
+![](../.gitbook/assets/AL\_INCAGI.png) [Increase AGI](https://www.divine-pride.net/database/skill/29) \[10:10]
+
+![](../.gitbook/assets/AL\_BLESSING.png) [Blessing](https://www.divine-pride.net/database/skill/34) \[10:10]
+
+![](../.gitbook/assets/MC\_PUSHCART.png) [Pushcart](https://www.divine-pride.net/database/skill/39) \[10:10 or <mark style="color:yellow;">\*optional</mark>]
+
+![](../.gitbook/assets/MC\_INCCARRY.png) [Enlarge Weight Limit](https://www.divine-pride.net/database/skill/36) \[5:10 or <mark style="color:yellow;">\*optional</mark>]
+
+![](../.gitbook/assets/AL\_DP.png) [Divine Protection](https://www.divine-pride.net/database/skill/22) \[5:10]
+
+![](../.gitbook/assets/TF\_MISS.png) [Improve Dodge](https://www.divine-pride.net/database/skill/49) \[10:10]
+
+![](../.gitbook/assets/SM\_SWORD.png) [Sword Mastery](https://www.divine-pride.net/database/skill/2) 10:10 or <mark style="color:yellow;">\*optional</mark>]
 {% endtab %}
 {% endtabs %}
