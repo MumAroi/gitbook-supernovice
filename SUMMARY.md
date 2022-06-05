@@ -11,3 +11,4 @@
 ## 🛠 Build
 
 * [🔪 Physical ( กายภาพ )](build/physical-cri.md)
+* [🪄 Auto Spell](build/auto-spell.md)
