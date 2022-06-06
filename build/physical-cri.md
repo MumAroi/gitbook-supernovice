@@ -36,6 +36,7 @@
 * ![](../.gitbook/assets/Riot\_Chip.png) [Runaway Chip \[1\]](https://www.divine-pride.net/database/item/18997/runaway-chip-1)
 * ![](../.gitbook/assets/General\_Helmet.png) [General Helm \[1\]](https://www.divine-pride.net/database/item/19263/general-helm-1)
 * ![](../.gitbook/assets/Spider\_Temp\_TW.png) [Spider Seduction \[1\]](https://www.divine-pride.net/database/item/19328/spider-seduction-1)
+* ![](../.gitbook/assets/FaceWorm\_Breath.png) [Giant Snake Breath](https://www.divine-pride.net/database/item/19268/giant-snake-breath)
 
 #### <mark style="color:yellow;">Middle Headgear</mark>
 
@@ -129,6 +130,7 @@
 * ![](../.gitbook/assets/card.png) [Deviling Card](https://www.divine-pride.net/database/item/4174/deviling-card)
 * ![](../.gitbook/assets/card.png) [Raydric Card](https://www.divine-pride.net/database/item/4133/raydric-card)
 * ![](../.gitbook/assets/card.png) [Petal Card](https://www.divine-pride.net/database/item/4594/)
+* ![](../.gitbook/assets/card.png) [Wakwak Card](https://www.divine-pride.net/database/item/4588/wakwak-card)
 
 #### <mark style="color:yellow;">Shoes</mark>
 
