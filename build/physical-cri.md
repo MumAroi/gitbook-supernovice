@@ -41,6 +41,8 @@
 #### <mark style="color:yellow;">Middle Headgear</mark>
 
 * ![](../.gitbook/assets/Bell\_Pigeon.png) [Bell Pigeon \[1\]](https://www.divine-pride.net/database/item/18912/bell-pigeon-1)
+* ![](../.gitbook/assets/Sunglasses\_.png) [Sunglasses \[1\]](https://www.divine-pride.net/database/item/2202/sunglasses-1)
+* ![](../.gitbook/assets/Gambler\_Seal.png) [Gambler Seal](https://www.divine-pride.net/database/item/5918/gamblers-seal)
 
 #### <mark style="color:yellow;">Lower Headgear</mark>
 
@@ -48,6 +50,7 @@
 * ![](../.gitbook/assets/Panda\_Balloon.png) [Panda Balloon](https://www.divine-pride.net/database/item/18962/panda-balloon)
 * ![](../.gitbook/assets/Wei\_Brush\_Tattoo.png) [Wei Brush Tattoo](https://ro.gnjoy.in.th/spend-promotion-feb-2022/)
 * ![](../.gitbook/assets/Mob\_Scarf.png) [Mob Scarf](https://www.divine-pride.net/database/item/28502/mob-scarf)
+* ![](../.gitbook/assets/Heart\_Card\_In\_Mouth.png) [Heart Card In Mouth](https://www.divine-pride.net/database/item/19306/heart-card-in-mouth)
 
 #### <mark style="color:yellow;">Armor</mark>
 
