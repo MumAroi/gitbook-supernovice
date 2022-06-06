@@ -46,6 +46,8 @@
 
 * ![](../.gitbook/assets/Pink\_Angeling\_Bubble.png) [Pink Angeling Bubble](https://www.divine-pride.net/database/item/18858/pink-angeling-bubble)
 * ![](../.gitbook/assets/Panda\_Balloon.png) [Panda Balloon](https://www.divine-pride.net/database/item/18962/panda-balloon)
+* ![](../.gitbook/assets/Wei\_Brush\_Tattoo.png) [Wei Brush Tattoo](https://ro.gnjoy.in.th/spend-promotion-feb-2022/)
+* ![](../.gitbook/assets/Mob\_Scarf.png) [Mob Scarf](https://www.divine-pride.net/database/item/28502/mob-scarf)
 
 #### <mark style="color:yellow;">Armor</mark>
 
@@ -117,6 +119,7 @@
 
 * ​![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FotbFEXUWBrslujW21DlK%2Fuploads%2FkAkCbsf0QG8qi0ke1Lv3%2Fcard.png?alt=media\&token=1d9c1d6b-036f-4f6e-868e-e572b07a9de5)[Arch Angeling Card](https://www.divine-pride.net/database/item/4241/arch-angeling-card)​
 * ​​![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FotbFEXUWBrslujW21DlK%2Fuploads%2FkAkCbsf0QG8qi0ke1Lv3%2Fcard.png?alt=media\&token=1d9c1d6b-036f-4f6e-868e-e572b07a9de5)[Incubus Card](https://www.divine-pride.net/database/item/4269/incubus-card)
+* ![](../.gitbook/assets/card.png) [Cruel Coelacanth Card](https://www.divine-pride.net/database/item/4529/cruel-coelacanth-card)
 
 #### <mark style="color:yellow;">Armor</mark>
 
