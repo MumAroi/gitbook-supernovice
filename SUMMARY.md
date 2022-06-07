@@ -12,3 +12,4 @@
 
 * [🔪 Physical ( กายภาพ )](build/physical-cri.md)
 * [🪄 Auto Spell ( รัวเวท )](build/auto-spell.md)
+* [Magic ( ร่ายเวท )](build/magic.md)

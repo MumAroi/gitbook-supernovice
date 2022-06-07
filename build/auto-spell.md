@@ -191,5 +191,3 @@ DEX: 1 ro 70+
 LUK: 50+&#x20;
 {% endtab %}
 {% endtabs %}
-
-> <mark style="color:red;">เดี๋ยวมาอัพเดต</mark>
