@@ -1,4 +1,4 @@
-# 🪄 Auto Spell ( รัวเวท )
+# 🌠 Auto Spell ( รัวเวท )
 
 {% tabs %}
 {% tab title="Equipment" %}
