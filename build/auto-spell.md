@@ -82,6 +82,114 @@
 * ![](../.gitbook/assets/S\_Sigrun\_Armor.png) [Sigrun Shadow Armor](https://www.divine-pride.net/database/item/24326/sigrun-shadow-armor)
 * ![](../.gitbook/assets/S\_MagicCompose\_Armor.png) [Magic Compose Shadow Armor](https://www.divine-pride.net/database/item/24334/magic-compose-shadow-armor)
 {% endtab %}
+
+{% tab title="Card" %}
+
+
+#### <mark style="color:yellow;">**Weapon**</mark>
+
+* ![](../.gitbook/assets/card.png) [Corruption Root Card](https://www.divine-pride.net/database/item/4603/corruption-root-card)
+* ![](../.gitbook/assets/card.png) [Sidewinder Card](https://www.divine-pride.net/database/item/4117/sidewinder-card)
+* ![](../.gitbook/assets/card.png) [Mutant Dragonoid Card](https://www.divine-pride.net/database/item/4203/mutant-dragonoid-card)
+
+#### <mark style="color:yellow;">Shield</mark>
+
+* ![](../.gitbook/assets/card.png) [Ogretooth Card](https://www.divine-pride.net/database/item/4254/ogretooth-card)
+* ![](../.gitbook/assets/card.png) [Khalitzburg Knightage Card](https://www.divine-pride.net/database/item/4609/khalitzburg-knight-card)
+* ![](../.gitbook/assets/card.png) [Hodremlin Card](https://www.divine-pride.net/database/item/4413/hodremlin-card)
+
+#### <mark style="color:yellow;">Headgear</mark>
+
+* ​![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FotbFEXUWBrslujW21DlK%2Fuploads%2FkAkCbsf0QG8qi0ke1Lv3%2Fcard.png?alt=media\&token=1d9c1d6b-036f-4f6e-868e-e572b07a9de5)[Arch Angeling Card](https://www.divine-pride.net/database/item/4241/arch-angeling-card)​
+* ​​![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FotbFEXUWBrslujW21DlK%2Fuploads%2FkAkCbsf0QG8qi0ke1Lv3%2Fcard.png?alt=media\&token=1d9c1d6b-036f-4f6e-868e-e572b07a9de5)[Incubus Card](https://www.divine-pride.net/database/item/4269/incubus-card)
+
+#### <mark style="color:yellow;">Armor</mark>
+
+* ![](../.gitbook/assets/card.png) [Succubus Card](https://www.divine-pride.net/database/item/4218/succubus-card)
+
+#### <mark style="color:yellow;">Garment</mark>
+
+* ![](../.gitbook/assets/card.png) [Nine Tail Card](https://www.divine-pride.net/database/item/4159/nine-tail-card)
+* ![](../.gitbook/assets/card.png) [Nightmare Ancient Mummy Card](https://www.divine-pride.net/database/item/4657/nightmare-ancient-mummy-card)
+* ![](../.gitbook/assets/card.png) [Deviling Card](https://www.divine-pride.net/database/item/4174/deviling-card)
+* ![](../.gitbook/assets/card.png) [Raydric Card](https://www.divine-pride.net/database/item/4133/raydric-card)
+
+#### <mark style="color:yellow;">Shoes</mark>
+
+* ![](../.gitbook/assets/card.png) [Firelock Soldier Card](https://www.divine-pride.net/database/item/4160/firelock-soldier-card)
+* ![](../.gitbook/assets/card.png) [Matyr Card](https://www.divine-pride.net/database/item/4097/matyr-card)
+* ![](../.gitbook/assets/card.png) [Eggyra Card](https://www.divine-pride.net/database/item/4070/eggyra-card)
+* ![](../.gitbook/assets/card.png) [Stefan.J.E.Wolf Card](https://www.divine-pride.net/database/item/31026/stefan-j-e-wolf-card)
+
+#### <mark style="color:yellow;">Accessory</mark>
+
+* ![](../.gitbook/assets/card.png) [Material Chimera Card](https://www.divine-pride.net/database/item/27148/material-chimera-card)
+* ![](../.gitbook/assets/card.png) [Owl Baron Card](https://www.divine-pride.net/database/item/4238/owl-baron-card)
+{% endtab %}
+
+{% tab title="Skill" %}
+#### <mark style="color:yellow;">Super Novice</mark>
+
+![](../.gitbook/assets/TF\_DOUBLE.png) [Double Attack](https://www.divine-pride.net/database/skill/48) \[10:10]
+
+![](../.gitbook/assets/AL\_INCAGI.png) [Increase AGI](https://www.divine-pride.net/database/skill/29) \[10:10]
+
+![](../.gitbook/assets/AL\_BLESSING.png) [Blessing](https://www.divine-pride.net/database/skill/34) \[10:10]
+
+![](../.gitbook/assets/MC\_PUSHCART.png) [Pushcart](https://www.divine-pride.net/database/skill/39) \[10:10 or <mark style="color:yellow;">\*optional</mark>]
+
+![](../.gitbook/assets/MC\_INCCARRY.png) [Enlarge Weight Limit](https://www.divine-pride.net/database/skill/36) \[5:10 or <mark style="color:yellow;">\*optional</mark>]
+
+![](../.gitbook/assets/AL\_DP.png) [Divine Protection](https://www.divine-pride.net/database/skill/22) \[5:10]
+
+![](../.gitbook/assets/TF\_MISS.png) [Improve Dodge](https://www.divine-pride.net/database/skill/49) \[10:10]
+
+![](../.gitbook/assets/MG\_STONECURSE.png) [Stone Curse](https://www.divine-pride.net/database/skill/16) \[1:10]
+
+![](../.gitbook/assets/MG\_FIREBOLT.png) [Fire Bolt](https://www.divine-pride.net/database/skill/19) \[4:10]
+
+![](../.gitbook/assets/MG\_FIREBALL.png) [Fire Ball](https://www.divine-pride.net/database/skill/17) \[10:10]
+
+![](../.gitbook/assets/AC\_CONCENTRATION.png) [Improve Concentration](https://www.divine-pride.net/database/skill/45) \[10:10 or <mark style="color:yellow;">\*optional</mark>]
+
+![](../.gitbook/assets/AC\_VULTURE.png) [Vulture's Eye](https://www.divine-pride.net/database/skill/44) [Stone Curse](https://www.divine-pride.net/database/skill/16) \[1:10 or <mark style="color:yellow;">\*optional</mark>]
+
+![](../.gitbook/assets/AC\_OWL.png) [Owl's Eye](https://www.divine-pride.net/database/skill/43) \[3:10 or <mark style="color:yellow;">\*optional</mark>]
+
+![](../.gitbook/assets/AL\_HEAL.png) [Heal](https://www.divine-pride.net/database/skill/28) \[3 or 10 :10]
+
+#### <mark style="color:yellow;">Expanded Super Novice</mark>
+
+<mark style="color:yellow;"></mark>![](../.gitbook/assets/CR\_TRUST.png) <mark style="color:yellow;"></mark> [Faith](https://www.divine-pride.net/database/skill/248) \[10:10]
+
+![](../.gitbook/assets/PR\_IMPOSITIO.png) [Impositio Manus](https://www.divine-pride.net/tools/skilltree/4307) \[5:5 or <mark style="color:yellow;">\*optional</mark>]&#x20;
+
+![](../.gitbook/assets/WZ\_EARTHSPIKE.png) [Earth Spike](https://www.divine-pride.net/database/skill/90) \[3:5]
+
+![](../.gitbook/assets/WZ\_HEAVENDRIVE.png) [Heaven's Drive](https://www.divine-pride.net/database/skill/91)  \[1:5]
+
+![](../.gitbook/assets/WZ\_QUAGMIRE.png) [Quagmire](https://www.divine-pride.net/database/skill/92) \[5:5]
+
+![](../.gitbook/assets/PR\_GLORIA.png) [Gloria](https://www.divine-pride.net/tools/skilltree/4307) \[5:5 or <mark style="color:yellow;">\*optional</mark>]&#x20;
+{% endtab %}
+
+{% tab title="Status" %}
+<mark style="color:red;">\*\*\* ทุก status ไม่แนะนำอัพ 120 เปลือง point แต่ถ้าจะอัพก็ไม่ผิด</mark>
+
+<mark style="color:red;">\*\*\* ทุก status สำคัญต่อน้อน supno มากเพราะฉนั้นเลือกอัพกันดีๆนะ</mark>
+
+STR: 1 or 30+
+
+AGI: 90+
+
+VIT: 1 - 50  <mark style="color:red;">\* point เหลือค่อยอัพเน้นหลบเอา</mark>
+
+INT: 90+
+
+DEX: 1 ro 70+
+
+LUK: 50+&#x20;
+{% endtab %}
 {% endtabs %}
 
 > <mark style="color:red;">เดี๋ยวมาอัพเดต</mark>
